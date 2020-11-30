@@ -6,6 +6,10 @@
   "bin": {
     "bjj": "bin/init.js"
   },
+  "files": [
+    "./bin",
+    "./src"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
