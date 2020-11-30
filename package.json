@@ -1,7 +1,7 @@
 {
   "name": "biu-jenkins-jobs",
   "version": "1.0.0",
-  "description": "## 说明",
+  "description": "biu的一下创建jenkins Jobs",
   "main": "index.js",
   "bin": {
     "bjj": "bin/init.js"
